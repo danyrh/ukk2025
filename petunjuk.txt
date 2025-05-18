@@ -1,0 +1,11 @@
+1. simpan file di htdocs pada directory xampp
+2. export database konter pada phpMyAdmin
+3. info login
+   - admin pada (login petugas)
+     username : admin
+     password : admin123
+   - user pada (belanja sekarang)
+     username : kaka
+     password : 123
+4. sesuaikan semua isi pada code ubah dari format konter ke perpustakaan (data, database, isi, dll)
+5. modifikiasi tempilan sesuai keinginan anda
